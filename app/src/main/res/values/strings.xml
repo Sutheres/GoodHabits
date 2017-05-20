@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoodHabits</string>
+    <string name="habit_text">Habit: </string>
+    <string name="rank_text">Ranking: </string>
+</resources>
